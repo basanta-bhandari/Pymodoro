@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="Pymodoro",
+    name="Pymodoro-B1",
     version="0.1.0",
     description="A terminal-based Pomodoro timer using Python.",
     long_description=open("README.md").read() if __name__ == "__main__" else "",

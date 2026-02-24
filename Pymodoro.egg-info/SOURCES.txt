@@ -1,0 +1,9 @@
+README.md
+main.py
+setup.py
+Pymodoro.egg-info/PKG-INFO
+Pymodoro.egg-info/SOURCES.txt
+Pymodoro.egg-info/dependency_links.txt
+Pymodoro.egg-info/entry_points.txt
+Pymodoro.egg-info/requires.txt
+Pymodoro.egg-info/top_level.txt
